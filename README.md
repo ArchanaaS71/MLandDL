@@ -1,4 +1,3 @@
-# BYTS-TRAINING
-This repository consist of files and folders of my placement training as a student of Super Pacc batch.
-
-Most of my Machine Learning and Deep Learning codes are placed in this folder
+#MLandDL
+This repository consist of most of my Machine Learning and Deep Learning codes that are beginner friendly.
+Scratch codes of most of the basic algorithms are also placed in this.
